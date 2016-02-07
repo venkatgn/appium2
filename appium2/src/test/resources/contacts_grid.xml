@@ -1,0 +1,14 @@
+<suite name="contacts">
+  <test name="tst_lenovo">
+  <parameter name="devicen" value="lev" />
+  <classes>
+     <class name="prac1.contacts_grid" />     
+  </classes>
+  </test>  
+  <test name="tst_sony">
+  <parameter name="devicen" value="sony" />
+  <classes>
+     <class name="prac1.contacts_grid" />     
+  </classes>
+  </test>  
+</suite>
